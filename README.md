@@ -41,6 +41,6 @@ venv\Scripts\activate     # Windows
 - pip install streamlit groq
 
 ### Como Executar o Projeto
-**Digite:** streamlit run app.py
+**Digite:** streamlit run page.py
 
 
